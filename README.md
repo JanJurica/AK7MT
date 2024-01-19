@@ -1,3 +1,8 @@
+About:
+
+
+
+
 requrements: 
 Klasifikovaný zápočet student získá prezentací závěrečného projektu mobilní aplikace.
 
